@@ -16,3 +16,6 @@ This project allows controlling an LED using ESP32 and Blynk over WiFi.
 ## 🚀 Features
 - Remote LED control
 - WiFi connectivity
+
+## 👤 Author
+Serkan Işık
